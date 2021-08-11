@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdatadeling=self.webpackChunkdatadeling||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/datadeling-docs-tmp/blog/welcome"},{"title":"Hello","permalink":"/datadeling-docs-tmp/blog/hello-world"},{"title":"Hola","permalink":"/datadeling-docs-tmp/blog/hola"}]}')}}]);
