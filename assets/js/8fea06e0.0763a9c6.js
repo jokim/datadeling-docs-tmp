@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdatadeling=self.webpackChunkdatadeling||[]).push([[6194],{4690:function(a){a.exports=JSON.parse('{"allTagsPath":"/datadeling-docs-tmp/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/datadeling-docs-tmp/blog/tags/hola"}')}}]);
